@@ -1,0 +1,28 @@
+.mydiv1 {
+	border: 18px solid rgb(239,237,235);
+	border-radius: 5px;
+	height: 400px;
+	margin: 60px;
+	padding: 20px;
+
+}
+
+#mydate1 {
+	color: rgb(156, 160, 163);
+	font-family: sans-serif;
+}
+
+h2 {
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+span {
+	color: steelblue;
+	font-family: sans-serif;
+}
+
+#p {
+	color:steelblue;
+	font-family: sans-serif;
+}
